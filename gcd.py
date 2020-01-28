@@ -13,8 +13,8 @@ def gcd(m, n):
 			cf.append(k)
 	return(cf[-1])
 
-print("Enter Values to fing Greatest comman Divider")
-val1 = input("Enter the First Value :")
-val2 = input("Enter the Second Value :")
-GCD = gcd(int(val1), int(val2))
-print('The comman Diviser is',GCD)
+print("Enter Values to fing Greatest common Divider")
+input1 = input("Enter the First Value :")
+input2 = input("Enter the Second Value :")
+GCD = gcd(int(input1), int(input2))
+print('The common Diviser is',GCD)
