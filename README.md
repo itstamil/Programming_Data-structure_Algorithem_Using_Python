@@ -1,2 +1,9 @@
-# Programming_Data-structure_Algorithem_Using_Python
-An example of Programming_Data-structure_Algorithem_Using_Python course 
+### Programming, Data Structure And Algorithm using Python
+
+### Algorithm
+
+- Its an sequense of step to perform an task systematically.
+
+### Data Structure
+
+- Organizing the things in effective way
